@@ -8,8 +8,8 @@ export const DOCTOR_INFO = {
   focus: ["Emagrecimento de Alta Performance", "Hipertrofia e Definição", "Modulação Hormonal Estratégica", "Longevidade Ativa"],
 
   // Caminhos ajustados para incluir /public
-  image: "/public/dr-louis-clinica.jpeg",
-  aboutImage: "/public/dr-louis-perfil.jpeg"
+  image: "/public/assets/dr-louis-clinica.jpeg",
+  aboutImage: "/public/assets/dr-louis-perfil.jpeg"
 };
 
 export const PROGRAM_DETAILS = {
